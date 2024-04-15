@@ -10,7 +10,7 @@ coverage==4.5.2
 cryptography==2.5
 docutils==0.14
 flake8==3.7.5
-idna==2.8
+idna==3.7
 imagesize==1.1.0
 Jinja2==2.10
 MarkupSafe==1.1.0
